@@ -1,10 +1,4 @@
 # Deployment Guide — Getting Your Slam Book Live on the Internet
-
-Honest note before you start: I (Claude) can't click "Deploy" on your
-accounts for you — these platforms require YOUR login and YOUR payment-free
-signup. What I can do is give you the exact steps, in order, so you're never
-guessing. Follow this top to bottom; each part builds on the last.
-
 ---
 
 ## Part 1 — Push your code to GitHub
