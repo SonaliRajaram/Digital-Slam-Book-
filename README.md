@@ -1,4 +1,4 @@
-# Digital Slam Book — Project Status
+# Digital Slam Book 
 
 This README is your map. Three companion documents go deeper on specific
 concerns:
@@ -33,7 +33,7 @@ Owner logs in -> Dashboard (friends listed FCFS)
    ↓
 Owner clicks "Open & Read the Slam Book"
    ↓
-📖 Cover Page (your uploaded cover.png)
+Cover Page (your uploaded cover.png)
    ↓
 Click "Open Book"
    ↓
@@ -61,22 +61,3 @@ cover design with zero code changes.
 
 Every item above was actually run and verified — see the conversation
 history for the specific test commands and their output, not just claims.
-
-## What's genuinely not here yet
-
-- Backup/restore (export/import all data as JSON)
-- Security hardening pass: rate limiting, HttpOnly-cookie auth (currently
-  localStorage, which is fine for v1 but worth upgrading before wide use),
-  stricter production CORS
-- Automated test suite (pytest) — testing has been done manually via
-  scripted end-to-end runs each milestone, not as a checked-in suite yet
-- Niche content types: digital signature, QR code, location pin, freehand
-  drawing canvas, calligraphy brush, theme switching (dark/light/festival/
-  galaxy — currently one fixed parchment theme)
-- Actual live deployment — DEPLOYMENT.md gives you the exact steps, but
-  running them requires your own GitHub/Render/Vercel/Cloudinary accounts,
-  which I can't act on for you
-
-Say "NEXT" to continue with any of the above — your call on priority, or
-I'll pick the most foundational one (likely security hardening, since it
-should happen before you actually share this link with friends).
