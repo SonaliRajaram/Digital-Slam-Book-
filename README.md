@@ -4,7 +4,7 @@ This README is your map. Three companion documents go deeper on specific
 concerns:
 - **TECH_STACK.md** — every technology used, and why
 - **SETUP.md** — step-by-step local run instructions + troubleshooting
-- **DEPLOYMENT.md** — step-by-step path to a live, shareable URL
+
 
 ## Quickest path to seeing it run
 
