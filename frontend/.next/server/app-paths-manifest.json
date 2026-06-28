@@ -1,0 +1,8 @@
+{
+  "/owner/login/page": "app/owner/login/page.js",
+  "/owner/music/page": "app/owner/music/page.js",
+  "/page": "app/page.js",
+  "/owner/dashboard/page": "app/owner/dashboard/page.js",
+  "/write/page": "app/write/page.js",
+  "/owner/read/page": "app/owner/read/page.js"
+}
